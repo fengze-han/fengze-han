@@ -28,4 +28,11 @@ CSS          3 mins                ▒░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fengze-han&show_icons=true&theme=gotham" alt="fengze-han" />
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23F709&center=true&vCenter=true&width=600&lines=Hello%2C%20World!;Talk%20is%20cheap.%20Show%20me%20the%20code!;It%20works%20on%20my%20machine!&size=27" alt="Typing SVG" />
+  </a>
+
+</h3>
+
