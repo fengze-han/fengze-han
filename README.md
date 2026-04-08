@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HI%20THERE!👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile!&descAlignY=51&descAlign=62" />
+</div>
+
 for freelance work? do reach, [email](mailto:justindawnhan@gmail.com) :)
 
 📊 **this week i spent my time on:**
