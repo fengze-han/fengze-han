@@ -7,13 +7,8 @@ for freelance work? do reach, [email](mailto:justindawnhan@gmail.com) :)
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript   1 hr 53 mins          ███████████████▓░░░░░░░░░   63.28 %
-JSON         33 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-Markdown     16 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-Other        12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-CSS          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-```
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小韩同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+
 
 <!--END_SECTION:waka-->
 
