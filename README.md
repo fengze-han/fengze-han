@@ -59,8 +59,12 @@ CSS          3 mins                ▒░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-KyS&theme=radical" alt="streak graph" />
 </div>
+
 <div align="center">
-  <!-- 在这里添加你的社交链接，例如 Blog, Twitter, LinkedIn 等 -->
-  <!-- <a href="LINK"><img src="https://img.shields.io/badge/Name-Color?style=for-the-badge&logo=logoName&logoColor=white" /></a> -->
-  <img src="https://fenz.top&style=flat-square&color=blueviolet" alt="Profile views" />
+  <a href="https://github.com/fengze-han"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://fenz.top"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+  <a href="mailto:justindawnhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+  <img src="https://komarev.com/ghpvc/?username=C-KyS&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
+
