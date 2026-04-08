@@ -49,7 +49,6 @@ CSS          3 mins                ▒░░░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
-// 源代码如下
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -60,9 +59,8 @@ CSS          3 mins                ▒░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-KyS&theme=radical" alt="streak graph" />
 </div>
-//源代码如下
 <div align="center">
   <!-- 在这里添加你的社交链接，例如 Blog, Twitter, LinkedIn 等 -->
   <!-- <a href="LINK"><img src="https://img.shields.io/badge/Name-Color?style=for-the-badge&logo=logoName&logoColor=white" /></a> -->
-  <img src="https://komarev.com/ghpvc/?username=C-KyS&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://fenz.top&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
