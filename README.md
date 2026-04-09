@@ -5,7 +5,7 @@
 ## 👋 About Me
 Reflexivity. Growing at every stage.
 
-Hi, I'm **Han Fengze (Justin Han)**, an Embedded Software Engineer based in Beijing.
+Hi, I'm **Fenz (Justin Han)**, an Embedded Software Engineer based in Beijing.
 - 🔧 Core focus: **RTOS, Linux, C/C++**, real-world embedded system development and low-power optimization
 - 🚀 Experienced in commercial hearing aid firmware development & robotics embedded control
 - 📝 Long-term technical writing, sharing embedded development, hardware learning and operation practice on [my blog](sslocal://flow/file_open?url=https%3A%2F%2Ffenz.top&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
