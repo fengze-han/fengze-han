@@ -111,27 +111,31 @@ Hi, I'm **Han Fengze (Justin Han)**, an Embedded Software Engineer based in Beij
 
 ---
 
-## 📝 Featured Blog Posts
+---
+
+## 📝 Featured Technical Articles
+*These articles best reflect my systematic understanding of embedded development, as well as my ability to solve practical engineering problems in real-world scenarios.*
+
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <a href="https://fenz.top/archives/hardware-learning-path.html"><strong>学习总结｜硬件学习入门全路径</strong></a>
-        <p>Sort out the four core learning paths of hardware development, from tool mastery to project practice, helping beginners get started quickly.</p>
+        <a href="https://fenz.top/post/712aa5355cb6/"><strong>学习总结｜硬件学习入门全路径</strong></a>
+        <p>Systematic summary of the full learning path for hardware development, covering core tool mastery, progressive skill building, component selection criteria and project practice methodology, building a complete knowledge system for embedded hardware development from scratch.</p>
       </td>
       <td width="50%">
-        <a href="https://fenz.top/archives/judge0-self-host.html"><strong>从零开始在 Windows 11 上自托管 Judge0</strong></a>
-        <p>A complete guide to self-hosting Judge0 based on WSL and Docker, including principle explanation, operation steps and common fault troubleshooting.</p>
+        <a href="https://fenz.top/post/884250281efe/"><strong>【解决办法】树莓派系统使用 PIP 安装 ultralytics 失败</strong></a>
+        <p>Troubleshooting practice for Python dependency installation failures on the embedded Linux platform (Raspberry Pi, ARM architecture). It introduces a standard virtual environment solution to avoid system environment damage, and summarizes general troubleshooting methods for embedded Linux environment configuration.</p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <a href="https://fenz.top/archives/hydro-maintain-guide.html"><strong>Hydro系统(OJ)维护小指南</strong></a>
-        <p>Quick operation guide for Hydro OJ system, including process management, system backup, version upgrade and cache cleaning.</p>
+        <a href="https://fenz.top/post/1d8e075e4717/"><strong>YOLOv10初见</strong></a>
+        <p>In-depth analysis of the core innovation and architecture design of the YOLOv10 real-time object detection algorithm, focusing on its deployment optimization on edge embedded devices (such as Raspberry Pi), and exploring the application practice of end-side AI in embedded and robotics scenarios.</p>
       </td>
       <td width="50%">
-        <a href="https://fenz.top/archives/hexo-url-optimize.html"><strong>Hexo修改默认文章URL的几种方式</strong></a>
-        <p>Multiple optimization schemes for Hexo article URL structure, solving the problems of Chinese garbled code and SEO unfriendly.</p>
+        <a href="https://fenz.top/post/22d5a1e8e685/"><strong>OEC/OEC-T实现精确稳定自动挂载硬盘</strong></a>
+        <p>A safe and stable automatic hard disk mounting solution for Armbian/Linux embedded systems based on UUID and systemd mount unit. It solves the problem of system startup failure caused by undetected hardware, and greatly improves the robustness and maintainability of embedded Linux devices.</p>
       </td>
     </tr>
   </table>
