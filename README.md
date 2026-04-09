@@ -84,10 +84,7 @@ Hi, I'm **Fenz (Justin Han)**, an Embedded Software Engineer based in Beijing.
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fengze-han&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengze-han&layout=compact&theme=radical" height="180" alt="Top Languages" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fengze-han&theme=radical" alt="GitHub Streak" />
