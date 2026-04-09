@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=韩丰泽 | Justin Han&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Embedded%20Software%20Engineer%20%7C%20Building%20reliable%20systems&descAlignY=55&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Justin%20Han&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Embedded%20Software%20Engineer%20%7C%20Building%20reliable%20systems&descAlignY=55&descSize=22" />
 </div>
 
 ## 👋 About Me
@@ -49,35 +49,61 @@ Hi, I'm **Han Fengze (Justin Han)**, an Embedded Software Engineer based in Beij
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Personal Projects & Practice
+*All projects below are publicly available or have detailed technical documentation.*
+
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3>📻 Commercial Hearing Aid Firmware</h3>
-        <p>Embedded firmware development for commercial hearing aids, including low-power optimization, real-time audio signal processing and driver adaptation.</p>
-        <p><strong>Tech Stack:</strong> C, RTOS, ARM Cortex-M</p>
-        <a href="https://github.com/fengze-han">🔗 View Project</a>
+        <h3>⚙️ Self-Hosted Judge0 Online Judge</h3>
+        <p>Independently built and self-hosted a complete online code judge system based on WSL and Docker.</p>
+        <p><strong>Key Work:</strong></p>
+        <ul>
+          <li>Completed Docker container deployment and network configuration</li>
+          <li>Solved database crash and container restart issues through troubleshooting</li>
+          <li>Wrote a detailed Chinese tutorial explaining the principles and operation steps</li>
+        </ul>
+        <p><strong>Tech Stack:</strong> Docker, WSL, Linux, Database</p>
+        <a href="https://fenz.top/archives/judge0-self-host.html">🔗 Read Technical Tutorial</a>
       </td>
       <td width="50%">
-        <h3>🤖 Robot Embedded Control System</h3>
-        <p>Embedded control system for mobile robots, including motor drive control, multi-sensor data fusion and motion control algorithm implementation.</p>
-        <p><strong>Tech Stack:</strong> C++, Linux, ROS, ARM</p>
-        <a href="https://github.com/fengze-han">🔗 View Project</a>
+        <h3>📝 Personal Technical Blog (Hexo)</h3>
+        <p>Self-built Hexo blog system with independent theme optimization, URL structure customization and SEO optimization.</p>
+        <p><strong>Key Work:</strong></p>
+        <ul>
+          <li>Customized article URL structure to solve Chinese garbled and SEO issues</li>
+          <li>Optimized blog loading speed and user experience</li>
+          <li>Published 20+ technical articles on embedded development, hardware learning and algorithms</li>
+        </ul>
+        <p><strong>Tech Stack:</strong> Hexo, Markdown, SEO, Node.js</p>
+        <a href="https://fenz.top">🔗 Visit Blog</a> · <a href="https://github.com/fengze-han/fengze-han.github.io">🔗 View Blog Code</a>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3>⚙️ Hydro OJ System Operation & Maintenance</h3>
-        <p>Long-term operation and maintenance of Hydro online judge system, including system backup, version upgrade, fault troubleshooting and performance optimization.</p>
-        <p><strong>Tech Stack:</strong> Linux, Node.js, Docker, Operation & Maintenance</p>
-        <a href="https://github.com/fengze-han">🔗 View Project</a>
+        <h3>🛠️ Hydro OJ System Operation & Maintenance</h3>
+        <p>Long-term operation and maintenance of Hydro online judge system, ensuring stable operation.</p>
+        <p><strong>Key Work:</strong></p>
+        <ul>
+          <li>Regular system backup, version upgrade and cache cleaning</li>
+          <li>Process management and fault troubleshooting using pm2</li>
+          <li>Compiled a quick operation guide for daily maintenance</li>
+        </ul>
+        <p><strong>Tech Stack:</strong> Linux, Node.js, pm2, Operation & Maintenance</p>
+        <a href="https://fenz.top/archives/hydro-maintain-guide.html">🔗 Read Maintenance Guide</a>
       </td>
       <td width="50%">
-        <h3>📝 Personal Technical Blog System</h3>
-        <p>Self-built Hexo blog system, independently complete theme optimization, URL structure customization, SEO optimization and content operation.</p>
-        <p><strong>Tech Stack:</strong> Hexo, Markdown, SEO, Node.js</p>
-        <a href="https://fenz.top">🔗 Visit Blog</a>
+        <h3>📚 Data Structure & Algorithm Practice</h3>
+        <p>Systematic practice and implementation of classic data structures and algorithms, with detailed Chinese explanations.</p>
+        <p><strong>Key Content:</strong></p>
+        <ul>
+          <li>Complete implementation of sequential list, singly linked list and sorting algorithms (Bubble Sort, etc.)</li>
+          <li>Detailed code comments and principle explanations in Chinese</li>
+          <li>Interactive menu system for practical testing</li>
+        </ul>
+        <p><strong>Tech Stack:</strong> C++, Data Structure, Algorithm</p>
+        <a href="https://fenz.top/archives/sequential-list.html">🔗 Read Sequential List Explanation</a> · <a href="https://fenz.top/archives/singly-linked-list.html">🔗 Read Linked List Explanation</a>
       </td>
     </tr>
   </table>
